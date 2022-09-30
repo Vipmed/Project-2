@@ -232,6 +232,10 @@ margin-left: 9px;
         margin-top: 40px;
     }
 
+    .main_img{
+        max-width: 550px;
+    }
+
     .grow{
         gap: 30px;
         margin: 60px auto;
